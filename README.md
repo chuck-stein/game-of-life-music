@@ -20,3 +20,9 @@ The `Remote Tick` MIDI device can be placed on a MIDI track to control the exact
 The `Display` device is a utility I created for screen recording a grid while it plays the music, in order to create a video of the resulting music synced to the visuals of the grid. Screen recording the grid displayed inside Ableton on a `Conductor` device is not high enough resolution due to the limited available vertical space on an Ableton device, so to circumvent this I used this `Display` device to run the same Game of Life in parallel on a much higher resolution grid that I screen record from the Max patch editing window, in order to not be constrained by Ableton's device height. This device is only useful if you wish to do the same.
 
 The `midi parser` device simply tells you which MIDI note numbers you are playing, in order to quickly find out what note numbers correspond with certain notes such as a key or a chord, when you are trying to create a manual pitch mapping. This was useful for me when determining what pitches to map to the large grid.
+
+## Example Composition
+The following is a composition in four movements entitled "Conway Suite," which I have created using the tools in this repository. You can also watch/listen in better quality [on YouTube](https://www.youtube.com/watch?v=E1mZRs2WQw0).
+
+https://user-images.githubusercontent.com/33754765/166400920-4f576e3d-0844-48f8-a5db-a5aa869cbdba.mp4
+
